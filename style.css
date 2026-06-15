@@ -1,8 +1,10 @@
 .h{
     color:red;
     text-align:center;
+    font-family: Roboto;
 }
 .p{
     color:gold;
     text-align:center;
+    font-style:italic;
 }
